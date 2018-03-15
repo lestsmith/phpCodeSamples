@@ -9,7 +9,7 @@
 		$definition = $_POST['definition'];
 	}
 	else {
-		$definition = null;
+		$definition = NULL;
 	}
 
 	if ($definition != NULL){
