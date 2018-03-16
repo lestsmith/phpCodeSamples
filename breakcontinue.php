@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head><meta charset="UTF-8">
-<title>Getting Started with PHP</title>
+<title>PHP Break and Continue</title>
 </head>
 <body>
 <?php

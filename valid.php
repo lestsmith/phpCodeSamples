@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head><meta charset="UTF-8">
-<title>Getting Started with PHP</title>
+<title>PHP Valid Handler</title>
 </head>
 <body>
 <form action="valid_handler.php" method="POST">

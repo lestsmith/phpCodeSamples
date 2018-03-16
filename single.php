@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="en">
 <head><meta charset="UTF-8">
-<title>Getting Started with PHP</title>
+<title>PHP Single file for form and post</title>
 </head>
 <body>
 <?php
