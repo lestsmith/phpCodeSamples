@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"greeting"
+			],
+			[
+				"name",
+				"name"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"border",
+				"border-spacing"
+			],
+			[
+				"bord",
+				"border-spacing"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"defi",
+				"definition"
+			],
+			[
+				"rad",
+				"radio"
+			],
+			[
+				"date_def",
+				"date_default_timezone_set"
+			],
+			[
+				"p",
+				"phrase"
+			],
+			[
+				"Body",
+				"body_temp"
+			],
+			[
+				"body",
+				"body_temp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "return.php",
+			"settings":
+			{
+				"buffer_size": 866,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/Abyss Web Server/htdocs/action_handler.php",
+		"/Applications/Abyss Web Server/htdocs/whileloop.php",
+		"/Applications/Abyss Web Server/htdocs/link.php",
+		"/Applications/Abyss Web Server/htdocs/location.php",
+		"/Applications/Abyss Web Server/htdocs/query.php",
+		"/Applications/Abyss Web Server/htdocs/result.php",
+		"/Applications/Abyss Web Server/htdocs/secure.php",
+		"/Applications/Abyss Web Server/htdocs/single.php",
+		"/Applications/Abyss Web Server/htdocs/sticky.php",
+		"/Applications/Abyss Web Server/htdocs/isset_handler.php",
+		"/Applications/Abyss Web Server/htdocs/isset.php",
+		"/Applications/Abyss Web Server/htdocs/insert.php",
+		"/Applications/Abyss Web Server/htdocs/hidden_handler.php",
+		"/Applications/Abyss Web Server/htdocs/hidden.php",
+		"/Applications/Abyss Web Server/htdocs/header.php",
+		"/Applications/Abyss Web Server/htdocs/error.php",
+		"/Applications/Abyss Web Server/htdocs/count.php",
+		"/Applications/Abyss Web Server/htdocs/breakcontinue.php",
+		"/Applications/Abyss Web Server/htdocs/update.php",
+		"/Applications/Abyss Web Server/htdocs/valid.php",
+		"/Applications/Abyss Web Server/htdocs/valid_handler.php",
+		"/Applications/Abyss Web Server/htdocs/validate.php",
+		"/Applications/Abyss Web Server/connect_db.php",
+		"/Applications/Abyss Web Server/htdocs/include.php",
+		"/Applications/Abyss Web Server/htdocs/includes/style.css",
+		"/Applications/Abyss Web Server/htdocs/includes/footer.html",
+		"/Applications/Abyss Web Server/htdocs/includes/header.html",
+		"/Applications/Abyss Web Server/htdocs/action.php",
+		"/Applications/Abyss Web Server/htdocs/return.php",
+		"/Applications/Abyss Web Server/htdocs/argument.php",
+		"/Applications/Abyss Web Server/htdocs/function.php",
+		"/Applications/Abyss Web Server/htdocs/forloop.php",
+		"/Applications/Abyss Web Server/htdocs/switch.php",
+		"/Applications/Abyss Web Server/htdocs/ifelse.php",
+		"/Applications/Abyss Web Server/htdocs/constant.php",
+		"/Applications/Abyss Web Server/htdocs/logic.php",
+		"/Applications/Abyss Web Server/htdocs/comparison.php",
+		"/Applications/Abyss Web Server/htdocs/arithmatic.php",
+		"/Applications/Abyss Web Server/htdocs/matrix.php",
+		"/Applications/Abyss Web Server/htdocs/sort.php",
+		"/Applications/Abyss Web Server/htdocs/array.php",
+		"/Applications/Abyss Web Server/htdocs/string.php",
+		"/Applications/Abyss Web Server/htdocs/variable.php",
+		"/Applications/Abyss Web Server/htdocs/require.php",
+		"/Applications/Abyss Web Server/htdocs/hello.php",
+		"/Applications/Abyss Web Server/htdocs/valid_handler.html",
+		"/Users/les/Dropbox/po_header.i",
+		"/Users/les/Dropbox/po_header.p",
+		"/Users/les/Documents/Chess/partien.pgn",
+		"/Users/les/Documents/Coding/HTML/CV.html",
+		"/Users/les/Documents/Coding/stylesheetCV.css",
+		"/Users/les/Documents/Development/PHP/test.php",
+		"/Users/les/Documents/Coding/CV.html",
+		"/Users/les/Documents/Coding/react.html",
+		"/Users/les/Documents/Coding/css1.css",
+		"/Users/les/Documents/Coding/css2.css",
+		"/Users/les/LocalDocuments/Tobi.pgn",
+		"/Users/les/Dropbox/printCuttingLabel.p",
+		"/Users/les/Dropbox/Notes/Release Check List.txt",
+		"/Users/les/Dropbox/Notes/Workspaces.txt",
+		"/Users/les/Dropbox/Notes/www.roundtable-software.com.txt",
+		"/Users/les/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/les/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/les/Dropbox/Notes/Belt kanji 2.txt",
+		"/Users/les/Dropbox/Notes/Belt kanji.txt",
+		"/Users/les/Dropbox/Notes/beltexam.txt",
+		"/Users/les/Dropbox/Notes/Heian Shodan.txt",
+		"/Users/les/Dropbox/Notes/Kara te do.txt",
+		"/Users/les/Dropbox/Notes/Karate Belts.txt",
+		"/Users/les/Dropbox/Notes/Karate Dates.txt",
+		"/Users/les/Dropbox/Notes/Karate Greeting Ceremony.txt",
+		"/Users/les/Dropbox/Notes/Karate Mindsets.txt",
+		"/Users/les/Dropbox/Notes/Karate Terms.txt",
+		"/Users/les/Dropbox/Notes/Karate Waza.txt",
+		"/Users/les/Dropbox/Notes/Karate.txt",
+		"/Users/les/Dropbox/Notes/Karate20170130.txt",
+		"/Users/les/Dropbox/Notes/Next Belt.txt",
+		"/Users/les/Dropbox/Notes/Orange Belt.txt",
+		"/Users/les/Dropbox/Notes/Orange.txt",
+		"/Users/les/Dropbox/Notes/Shotokan Karate Complete Guide.txt",
+		"/Users/les/Dropbox/Notes/# 1515.txt",
+		"/Users/les/Dropbox/Notes/todo.txt",
+		"/Users/les/Dropbox/Notes/Actions.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Applications/Abyss Web Server/htdocs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<title>Getting Started with PHP</title>",
+			"deci",
+			"int(",
+			"varchar2",
+			"number",
+			"width: 200px;",
+			"smith",
+			"x",
+			"#personal",
+			"smith",
+			"#Karate",
+			"#work",
+			"dynamic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"decimal",
+			"deci(",
+			"varchar",
+			"int",
+			" ",
+			"+karate"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "return.php",
+					"settings":
+					{
+						"buffer_size": 866,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								639,
+								639
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true
+}

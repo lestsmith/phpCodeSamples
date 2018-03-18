@@ -25,7 +25,7 @@ function show_records( $dbc)
 show_records($dbc);
 
 $q = 'insert into prints(name, price)
-		values ("One Center", 32.99), ("Yellow Red Blue", 36.99)';
+		values ("One Center TEST", 32.99), ("Yellow Red Blue TEST", 36.99)';
 
 $r = mysqli_query($dbc, $q);
 
