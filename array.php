@@ -9,12 +9,19 @@ $days = array('monday','tuesday','wednesday') ;
 foreach ($days as $value) {
 	echo "&bull; $value " ; 
 }
-$months = array('jan' => 'january', 'feb' => 'february', 'mar' => 'march') ;
+
+$months = array('jan' => 'January', 'feb' => 'february', 'mar' => 'march') ;
 echo '<dl>' ;
 foreach($months as $key => $value ) { 
 	echo "<dt>$key<dd>$value" ;
 }
 echo '</dl>' ;
+
+
+$test = $months['jan'];
+
+echo "<p>here > $test</p>";
+
 ?>
 </body>
 </html>
