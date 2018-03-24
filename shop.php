@@ -37,7 +37,7 @@
 	echo '<p><a href="cart.php">View Cart</a> |
 		<a href="forum.php">Forum</a> |
 		<a href="home.php">Home</a> |
-		<a href="goobye.php">Logout</a></p>';
+		<a href="goodbye.php">Logout</a></p>';
 
 	include('includes/footer.html');
 
