@@ -18,7 +18,7 @@ echo "<h1>HOME</h1>
 echo '<p>
 <a href="forum.php">Forum</a> | 
 <a href="shop.php">Shop</a> |
-<a href="goobye.php">Logout</a>
+<a href="goodbye.php">Logout</a>
 </p>';
 include('includes/footer.html');
 ?>
