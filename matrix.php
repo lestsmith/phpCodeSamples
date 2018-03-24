@@ -8,6 +8,7 @@
 $letters = array('A', 'B', 'C') ;
 $numbers = array(1, 2, 3) ;
 $matrix = array('Letter' => $letters , 'Number' => $numbers ) ;
+// {} is necessary when referring to multi dimensional arrays in a string.
 echo "<p>Start : {$matrix['Letter'][0]} </p>" ;
 foreach ($matrix as $array => $list) {
 	echo '<ul>' ;
