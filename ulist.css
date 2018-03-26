@@ -1,0 +1,4 @@
+ul.disc-bullets {list-style-type: disc; float: left;}
+ul.circle-bullets {list-style-type: circle; float: left;}
+ul.square-bullets {list-style-type: square; float: left;}
+ul.image-bullets {list-style-image: url(go.png) ; clear: both;}
