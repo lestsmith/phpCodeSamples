@@ -1,0 +1,7 @@
+header {border: 1px solid black; background: fuchsia; }
+nav {border: 1px solid black; background: white; margin: 5px;}
+main {border: 1px solid black; background: green; }
+section {border: 1px solid black; background: yellow; margin: 5px;}
+article {border: 1px solid black; background: red; margin: 5px;}
+p {border: 1px solid black; background: white; margin: 5px;}
+footer {border: 1px solid black; background: aqua;}

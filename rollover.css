@@ -1,0 +1,4 @@
+p.btn{width: 192px; height: 67px; background: url(rollover-bg.png);}
+p.btn a {display: block; width: 192px; height: 67px;}
+p.btn a img {border: 0px;}
+p.btn a:hover img {visibility: hidden;}
