@@ -4,6 +4,86 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"c",
+				"createElement"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"te",
+				"textContent"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bo",
+				"border-left"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"upper-",
+				"upper-roman"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"tb",
+				"table-cell"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"m",
+				"map	Tag"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
 				"PHP",
 				"PHP"
 			],
@@ -16,24 +96,8 @@
 				"pass1"
 			],
 			[
-				"g",
-				"greeting"
-			],
-			[
 				"name",
 				"name"
-			],
-			[
-				"font",
-				"font-style"
-			],
-			[
-				"bor",
-				"border-bottom"
-			],
-			[
-				"border",
-				"border-spacing"
 			],
 			[
 				"bord",
@@ -80,61 +144,37 @@
 	"buffers":
 	[
 		{
-			"file": "forum.php",
+			"file": "template.html",
 			"settings":
 			{
-				"buffer_size": 888,
-				"line_ending": "Unix",
-				"name": "<?PHP"
-			}
-		},
-		{
-			"file": "post.php",
-			"settings":
-			{
-				"buffer_size": 617,
-				"line_ending": "Unix",
-				"name": "<?PHP"
-			}
-		},
-		{
-			"file": "post_action.php",
-			"settings":
-			{
-				"buffer_size": 1001,
-				"line_ending": "Unix",
-				"name": "<?PHP"
-			}
-		},
-		{
-			"file": "includes/style.css",
-			"settings":
-			{
-				"buffer_size": 408,
+				"buffer_size": 381,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "array.php",
+			"contents": "<!DOCTYPE HTML>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Template Example</title>\n<script src=\"data.js\"></script>\n<script src=\"test2.js\"></script>\n<link rel=\"stylesheet\" href=\"template.css\">\n</head>\n<body>\n\n<table id=\"producttable\">\n  <thead>\n    <tr>\n      <td>UPC_Code</td>\n      <td>Product_Name</td>\n    </tr>\n  </thead>\n  <tbody>\n    <!-- existing data could optionally be included here -->\n  </tbody>\n</table>\n\n<template id=\"productrow\">\n  <tr>\n    <td class=\"record\"></td>\n    <td></td>\n  </tr>\n</template>\n\n<table></table>\n\n</body>\n<html>",
+			"file": "test.html",
+			"file_size": 542,
+			"file_write_time": 1522663353000000,
 			"settings":
 			{
-				"buffer_size": 464,
+				"buffer_size": 559,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "login_action.php",
+			"file": "test2.js",
 			"settings":
 			{
-				"buffer_size": 482,
+				"buffer_size": 1004,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "login_tools.php",
+			"file": "template.js",
 			"settings":
 			{
-				"buffer_size": 967,
+				"buffer_size": 790,
 				"line_ending": "Unix"
 			}
 		}
@@ -142,15 +182,23 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 367.0,
 		"selected_items":
 		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 392.0
+		"width": 497.0
 	},
 	"console":
 	{
-		"height": 0.0
+		"height": 125.0
 	},
 	"distraction_free":
 	{
@@ -163,20 +211,120 @@
 	},
 	"file_history":
 	[
-		"/Applications/Abyss Web Server/htdocs/login.php",
+		"/Applications/Abyss Web Server/htdocs/figure.html",
+		"/Applications/Abyss Web Server/htdocs/figure.css",
+		"/Users/les/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/les/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/Abyss Web Server/htdocs/bookregister.php",
+		"/Applications/Abyss Web Server/htdocs/test.html",
+		"/Applications/Abyss Web Server/htdocs/test.js",
+		"/Applications/Abyss Web Server/htdocs/template.css",
+		"/Applications/Abyss Web Server/htdocs/template.js",
+		"/Applications/Abyss Web Server/htdocs/data.js",
+		"/Applications/Abyss Web Server/htdocs/template.html",
+		"/Applications/Abyss Web Server/htdocs/querySelector.html",
+		"/Applications/Abyss Web Server/htdocs/cloneRow.html",
+		"/Applications/Abyss Web Server/htdocs/column.css",
+		"/Applications/Abyss Web Server/htdocs/column.html",
+		"/Applications/Abyss Web Server/htdocs/column2.css",
+		"/Users/les/Documents/Development/HTML/06/column2.html",
+		"/Applications/Abyss Web Server/htdocs/colgroup.css",
+		"/Applications/Abyss Web Server/htdocs/colgroup.html",
+		"/Applications/Abyss Web Server/htdocs/table.css",
+		"/Applications/Abyss Web Server/htdocs/align.html",
+		"/Applications/Abyss Web Server/htdocs/enhance.html",
+		"/Applications/Abyss Web Server/htdocs/colspan.html",
+		"/Applications/Abyss Web Server/htdocs/rowspan.html",
+		"/Applications/Abyss Web Server/htdocs/dlist.html",
+		"/Applications/Abyss Web Server/htdocs/dlist.css",
+		"/Applications/Abyss Web Server/htdocs/olist.css",
+		"/Applications/Abyss Web Server/htdocs/olist.html",
+		"/Applications/Abyss Web Server/htdocs/ulist.css",
+		"/Applications/Abyss Web Server/htdocs/ulist.html",
+		"/Applications/Abyss Web Server/htdocs/division.css",
+		"/Applications/Abyss Web Server/htdocs/division.html",
+		"/Applications/Abyss Web Server/htdocs/position.css",
+		"/Applications/Abyss Web Server/htdocs/position.html",
+		"/Users/les/Documents/Development/HTML/06/ulist.css",
+		"/Users/les/Documents/Development/HTML/06/ulist.html",
+		"/Users/les/Documents/Development/HTML/05/position.css",
+		"/Applications/Abyss Web Server/htdocs/section.css",
+		"/Applications/Abyss Web Server/htdocs/aside.html",
+		"/Applications/Abyss Web Server/htdocs/footer.html",
+		"/Applications/Abyss Web Server/htdocs/footer.css",
+		"/Applications/Abyss Web Server/htdocs/aside.css",
+		"/Applications/Abyss Web Server/htdocs/section.html",
+		"/Applications/Abyss Web Server/htdocs/nav.html",
+		"/Users/les/Documents/Development/HTML/05/nav.html",
+		"/Applications/Abyss Web Server/htdocs/heading.html",
+		"/Applications/Abyss Web Server/htdocs/header.html",
+		"/Applications/Abyss Web Server/htdocs/heading.css",
+		"/Applications/Abyss Web Server/htdocs/popup.html",
+		"/Applications/Abyss Web Server/htdocs/popup.css",
+		"/Applications/Abyss Web Server/htdocs/map.html",
+		"/Applications/Abyss Web Server/htdocs/rollover.css",
+		"/Applications/Abyss Web Server/htdocs/rollover.html",
+		"/Applications/Abyss Web Server/htdocs/protocol.js",
+		"/Applications/Abyss Web Server/htdocs/protocol.css",
+		"/Applications/Abyss Web Server/htdocs/protocol.html",
+		"/Applications/Abyss Web Server/htdocs/fragment.css",
+		"/Applications/Abyss Web Server/htdocs/next.html",
+		"/Applications/Abyss Web Server/htdocs/fragment.html",
+		"/Applications/Abyss Web Server/htdocs/protocol.cs",
+		"/Applications/Abyss Web Server/htdocs/advice.html",
+		"/Applications/Abyss Web Server/htdocs/linkPage.html",
+		"/Applications/Abyss Web Server/htdocs/access.html",
+		"/Applications/Abyss Web Server/htdocs/access.css",
+		"/Applications/Abyss Web Server/htdocs/hyperlinks.css",
+		"/Applications/Abyss Web Server/htdocs/image.html",
+		"/Applications/Abyss Web Server/htdocs/advice.js",
+		"/Applications/Abyss Web Server/htdocs/code.html",
+		"/Applications/Abyss Web Server/htdocs/super.html",
+		"/Users/les/Downloads/HTML5sources/03/preformat.html",
+		"/Applications/Abyss Web Server/htdocs/preformat.html",
+		"/Applications/Abyss Web Server/htdocs/mark.html",
+		"/Applications/Abyss Web Server/htdocs/format.html",
+		"/Applications/Abyss Web Server/htdocs/emphasis.html",
+		"/Applications/Abyss Web Server/htdocs/quote.css",
+		"/Applications/Abyss Web Server/htdocs/quote.html",
+		"/Applications/Abyss Web Server/htdocs/para.html",
+		"/Applications/Abyss Web Server/htdocs/onload.html",
+		"/Applications/Abyss Web Server/htdocs/favicon.html",
+		"/Applications/Abyss Web Server/htdocs/style.css",
+		"/Applications/Abyss Web Server/htdocs/style.html",
+		"/Applications/Abyss Web Server/htdocs/script.js",
+		"/Applications/Abyss Web Server/htdocs/JavaScript.html",
+		"/Applications/Abyss Web Server/htdocs/new-page.html",
+		"/Applications/Abyss Web Server/htdocs/keywords.html",
+		"/Applications/Abyss Web Server/htdocs/refresh.html",
+		"/Applications/Abyss Web Server/htdocs/hello.html",
+		"/Users/les/Downloads/HTML5sources/02/script.html",
+		"/Users/les/Downloads/HTML5sources/02/script.js",
+		"/Applications/Abyss Web Server/htdocs/matrix.php",
+		"/Applications/Abyss Web Server/htdocs/goodbye.php",
+		"/Applications/Abyss Web Server/htdocs/checkout.php",
+		"/Applications/Abyss Web Server/htdocs/cart.php",
+		"/Applications/Abyss Web Server/htdocs/added.php",
+		"/Applications/Abyss Web Server/htdocs/shop.php",
+		"/Applications/Abyss Web Server/htdocs/post_action.php",
+		"/Applications/Abyss Web Server/htdocs/post.php",
+		"/Applications/Abyss Web Server/htdocs/forum.php",
 		"/Applications/Abyss Web Server/htdocs/login_action.php",
+		"/Applications/Abyss Web Server/htdocs/login_tools.php",
+		"/Applications/Abyss Web Server/htdocs/login.php",
+		"/Applications/Abyss Web Server/htdocs/register.php",
+		"/Users/les/Downloads/HTML5sources/02/refresh.html",
 		"/Applications/Abyss Web Server/htdocs/home.php",
+		"/Applications/Abyss Web Server/htdocs/array.php",
+		"/Applications/Abyss Web Server/htdocs/includes/style.css",
 		"/Users/les/Documents/Development/PHP/php-src-reprint2014/htdocs/home.php",
 		"/Users/les/Documents/Development/PHP/php-src-reprint2014/htdocs/login_tools.php",
 		"/Users/les/Documents/Development/PHP/php-src-reprint2014/htdocs/login.php",
 		"/Users/les/Documents/Development/PHP/php-src-reprint2014/htdocs/login_action.php",
-		"/Applications/Abyss Web Server/htdocs/register.php",
 		"/Applications/Abyss Web Server/htdocs/includes/header.html",
 		"/Applications/Abyss Web Server/htdocs/includes/footer.html",
-		"/Applications/Abyss Web Server/htdocs/includes/style.css",
 		"/Applications/Abyss Web Server/htdocs/insert.php",
 		"/Applications/Abyss Web Server/htdocs/myregister.php",
-		"/Applications/Abyss Web Server/htdocs/array.php",
 		"/Applications/Abyss Web Server/htdocs/secure.php",
 		"/Applications/Abyss Web Server/htdocs/return.php",
 		"/Applications/Abyss Web Server/htdocs/hello.php",
@@ -185,78 +333,12 @@
 		"/Applications/Abyss Web Server/htdocs/string.php",
 		"/Applications/Abyss Web Server/htdocs/README.md",
 		"/Applications/Abyss Web Server/htdocs/phpinfo.php",
-		"/Applications/Abyss Web Server/htdocs/matrix.php",
 		"/Applications/Abyss Web Server/htdocs/arithmatic.php",
 		"/Applications/Abyss Web Server/htdocs/count.php",
 		"/Applications/Abyss Web Server/htdocs/location.php",
 		"/Applications/Abyss Web Server/htdocs/action_handler.php",
 		"/Applications/Abyss Web Server/htdocs/whileloop.php",
-		"/Applications/Abyss Web Server/htdocs/link.php",
-		"/Applications/Abyss Web Server/htdocs/query.php",
-		"/Applications/Abyss Web Server/htdocs/result.php",
-		"/Applications/Abyss Web Server/htdocs/single.php",
-		"/Applications/Abyss Web Server/htdocs/sticky.php",
-		"/Applications/Abyss Web Server/htdocs/isset_handler.php",
-		"/Applications/Abyss Web Server/htdocs/isset.php",
-		"/Applications/Abyss Web Server/htdocs/hidden_handler.php",
-		"/Applications/Abyss Web Server/htdocs/hidden.php",
-		"/Applications/Abyss Web Server/htdocs/header.php",
-		"/Applications/Abyss Web Server/htdocs/error.php",
-		"/Applications/Abyss Web Server/htdocs/breakcontinue.php",
-		"/Applications/Abyss Web Server/htdocs/update.php",
-		"/Applications/Abyss Web Server/htdocs/valid.php",
-		"/Applications/Abyss Web Server/htdocs/valid_handler.php",
-		"/Applications/Abyss Web Server/htdocs/validate.php",
-		"/Applications/Abyss Web Server/connect_db.php",
-		"/Applications/Abyss Web Server/htdocs/include.php",
-		"/Applications/Abyss Web Server/htdocs/action.php",
-		"/Applications/Abyss Web Server/htdocs/argument.php",
-		"/Applications/Abyss Web Server/htdocs/function.php",
-		"/Applications/Abyss Web Server/htdocs/forloop.php",
-		"/Applications/Abyss Web Server/htdocs/ifelse.php",
-		"/Applications/Abyss Web Server/htdocs/constant.php",
-		"/Applications/Abyss Web Server/htdocs/comparison.php",
-		"/Applications/Abyss Web Server/htdocs/sort.php",
-		"/Applications/Abyss Web Server/htdocs/variable.php",
-		"/Applications/Abyss Web Server/htdocs/require.php",
-		"/Applications/Abyss Web Server/htdocs/valid_handler.html",
-		"/Users/les/Dropbox/po_header.i",
-		"/Users/les/Dropbox/po_header.p",
-		"/Users/les/Documents/Chess/partien.pgn",
-		"/Users/les/Documents/Coding/HTML/CV.html",
-		"/Users/les/Documents/Coding/stylesheetCV.css",
-		"/Users/les/Documents/Development/PHP/test.php",
-		"/Users/les/Documents/Coding/CV.html",
-		"/Users/les/Documents/Coding/react.html",
-		"/Users/les/Documents/Coding/css1.css",
-		"/Users/les/Documents/Coding/css2.css",
-		"/Users/les/LocalDocuments/Tobi.pgn",
-		"/Users/les/Dropbox/printCuttingLabel.p",
-		"/Users/les/Dropbox/Notes/Release Check List.txt",
-		"/Users/les/Dropbox/Notes/Workspaces.txt",
-		"/Users/les/Dropbox/Notes/www.roundtable-software.com.txt",
-		"/Users/les/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
-		"/Users/les/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
-		"/Users/les/Dropbox/Notes/Belt kanji 2.txt",
-		"/Users/les/Dropbox/Notes/Belt kanji.txt",
-		"/Users/les/Dropbox/Notes/beltexam.txt",
-		"/Users/les/Dropbox/Notes/Heian Shodan.txt",
-		"/Users/les/Dropbox/Notes/Kara te do.txt",
-		"/Users/les/Dropbox/Notes/Karate Belts.txt",
-		"/Users/les/Dropbox/Notes/Karate Dates.txt",
-		"/Users/les/Dropbox/Notes/Karate Greeting Ceremony.txt",
-		"/Users/les/Dropbox/Notes/Karate Mindsets.txt",
-		"/Users/les/Dropbox/Notes/Karate Terms.txt",
-		"/Users/les/Dropbox/Notes/Karate Waza.txt",
-		"/Users/les/Dropbox/Notes/Karate.txt",
-		"/Users/les/Dropbox/Notes/Karate20170130.txt",
-		"/Users/les/Dropbox/Notes/Next Belt.txt",
-		"/Users/les/Dropbox/Notes/Orange Belt.txt",
-		"/Users/les/Dropbox/Notes/Orange.txt",
-		"/Users/les/Dropbox/Notes/Shotokan Karate Complete Guide.txt",
-		"/Users/les/Dropbox/Notes/# 1515.txt",
-		"/Users/les/Dropbox/Notes/todo.txt",
-		"/Users/les/Dropbox/Notes/Actions.txt"
+		"/Applications/Abyss Web Server/htdocs/link.php"
 	],
 	"find":
 	{
@@ -276,6 +358,16 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"head",
+			"cmd",
+			"/*",
+			"d",
+			"YOUR HOTKEY",
+			"figcaption",
+			"YOUR HOTKEY",
+			"green",
+			"5",
+			"goobye.php",
 			"Register",
 			"pass",
 			"error",
@@ -316,29 +408,28 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "forum.php",
+					"file": "template.html",
 					"settings":
 					{
-						"buffer_size": 888,
+						"buffer_size": 381,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								124,
-								124
+								381,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<?PHP",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -348,103 +439,25 @@
 				},
 				{
 					"buffer": 1,
-					"file": "post.php",
+					"file": "test.html",
 					"settings":
 					{
-						"buffer_size": 617,
+						"buffer_size": 559,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								496,
-								496
+								463,
+								463
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<?PHP",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "post_action.php",
-					"settings":
-					{
-						"buffer_size": 1001,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								998,
-								998
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<?PHP",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "includes/style.css",
-					"settings":
-					{
-						"buffer_size": 408,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "array.php",
-					"settings":
-					{
-						"buffer_size": 464,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								438,
-								438
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -455,28 +468,28 @@
 			]
 		},
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 5,
-					"file": "login_action.php",
+					"buffer": 2,
+					"file": "test2.js",
 					"settings":
 					{
-						"buffer_size": 482,
+						"buffer_size": 1004,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								489,
+								489
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
@@ -486,24 +499,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
-					"file": "login_tools.php",
+					"buffer": 3,
+					"file": "template.js",
 					"settings":
 					{
-						"buffer_size": 967,
+						"buffer_size": 790,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								198,
-								198
+								33,
+								33
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -520,7 +534,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{

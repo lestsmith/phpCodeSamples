@@ -1,0 +1,5 @@
+figure#front-stack {float: left; margin-top: 0px;}
+figure#back-stack {float: right; margin-top: 0px;}
+figcaption {font-size: smaller; color: green;}
+p:first-letter {font-size: xx-large;}
+h1 {color: green;}

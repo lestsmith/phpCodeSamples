@@ -1,5 +1,6 @@
 function init()
 {
+	alert("here");
 	var row, table , i , car , clone , cells;
 
 	row = document.getElementById("row");
