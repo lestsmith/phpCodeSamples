@@ -5,7 +5,7 @@
 		[
 			[
 				"h",
-				"h3	Tag"
+				"h3\tTag"
 			],
 			[
 				"mar",
@@ -73,7 +73,7 @@
 			],
 			[
 				"m",
-				"map	Tag"
+				"map\tTag"
 			],
 			[
 				"bor",
@@ -89,7 +89,7 @@
 			],
 			[
 				"in",
-				"input	Tag"
+				"input\tTag"
 			],
 			[
 				"pass",
@@ -143,46 +143,16 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "template.html",
-			"settings":
-			{
-				"buffer_size": 381,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE HTML>\n<html lang=\"en\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Template Example</title>\n<script src=\"data.js\"></script>\n<script src=\"test2.js\"></script>\n<link rel=\"stylesheet\" href=\"template.css\">\n</head>\n<body>\n\n<table id=\"producttable\">\n  <thead>\n    <tr>\n      <td>UPC_Code</td>\n      <td>Product_Name</td>\n    </tr>\n  </thead>\n  <tbody>\n    <!-- existing data could optionally be included here -->\n  </tbody>\n</table>\n\n<template id=\"productrow\">\n  <tr>\n    <td class=\"record\"></td>\n    <td></td>\n  </tr>\n</template>\n\n<table></table>\n\n</body>\n<html>",
-			"file": "test.html",
-			"file_size": 542,
-			"file_write_time": 1522663353000000,
-			"settings":
-			{
-				"buffer_size": 559,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test2.js",
-			"settings":
-			{
-				"buffer_size": 1004,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "template.js",
-			"settings":
-			{
-				"buffer_size": 790,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 367.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -198,7 +168,10 @@
 	},
 	"console":
 	{
-		"height": 125.0
+		"height": 125.0,
+		"history":
+		[
+		]
 	},
 	"distraction_free":
 	{
@@ -209,19 +182,25 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Applications/Abyss Web Server/htdocs"
+	],
 	"file_history":
 	[
+		"/Applications/Abyss Web Server/htdocs/target.html",
+		"/Applications/Abyss Web Server/htdocs/test2.js",
+		"/Applications/Abyss Web Server/htdocs/template.js",
+		"/Applications/Abyss Web Server/htdocs/template.html",
+		"/Applications/Abyss Web Server/htdocs/test.html",
 		"/Applications/Abyss Web Server/htdocs/figure.html",
 		"/Applications/Abyss Web Server/htdocs/figure.css",
 		"/Users/les/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/les/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
 		"/Applications/Abyss Web Server/htdocs/bookregister.php",
-		"/Applications/Abyss Web Server/htdocs/test.html",
 		"/Applications/Abyss Web Server/htdocs/test.js",
 		"/Applications/Abyss Web Server/htdocs/template.css",
-		"/Applications/Abyss Web Server/htdocs/template.js",
 		"/Applications/Abyss Web Server/htdocs/data.js",
-		"/Applications/Abyss Web Server/htdocs/template.html",
 		"/Applications/Abyss Web Server/htdocs/querySelector.html",
 		"/Applications/Abyss Web Server/htdocs/cloneRow.html",
 		"/Applications/Abyss Web Server/htdocs/column.css",
@@ -336,13 +315,11 @@
 		"/Applications/Abyss Web Server/htdocs/arithmatic.php",
 		"/Applications/Abyss Web Server/htdocs/count.php",
 		"/Applications/Abyss Web Server/htdocs/location.php",
-		"/Applications/Abyss Web Server/htdocs/action_handler.php",
-		"/Applications/Abyss Web Server/htdocs/whileloop.php",
-		"/Applications/Abyss Web Server/htdocs/link.php"
+		"/Applications/Abyss Web Server/htdocs/action_handler.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
@@ -408,129 +385,14 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "template.html",
-					"settings":
-					{
-						"buffer_size": 381,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								381,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "test.html",
-					"settings":
-					{
-						"buffer_size": 559,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								463,
-								463
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
-				{
-					"buffer": 2,
-					"file": "test2.js",
-					"settings":
-					{
-						"buffer_size": 1004,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								489,
-								489
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "template.js",
-					"settings":
-					{
-						"buffer_size": 790,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								33
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 23.0
 	},
 	"input":
 	{
@@ -545,18 +407,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -566,14 +421,21 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PHP.sublime-project",
 	"replace":
 	{
-		"height": 64.0
+		"height": 42.0
 	},
 	"save_all_on_build": true,
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -582,15 +444,32 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": true,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 173.0,
-	"status_bar_visible": true
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

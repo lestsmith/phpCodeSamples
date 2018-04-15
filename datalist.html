@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Data List Example</title>
+</head>
+<body>
+    <form method="GET" action="http://localhost/echo.pl">
+    	<datalist id="browsers">
+    		<option value="Chrome">
+			<option value="Firefox">
+			<option value="Internet Explorer">
+			<option value="Opera">
+			<option value="Safari">
+			<option value="Microsoft Edge">
+     	</datalist>
+     	<label>Choose your browser from this list:
+     		<input list="browsers" name="mybrowser">
+     	</label>
+    	<p><input type="submit" value="Submit Form"></p>
+    </form>
+</body>
+</html>
